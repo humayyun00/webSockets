@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/humayyun00/webSockets#readme",
   "dependencies": {
+    "express-validation": "^4.1.0",
+    "http-status": "^1.6.2",
+    "jsonwebtoken": "^9.0.0",
+    "ncrypt-js": "^2.0.0",
     "ws": "^8.12.0"
   }
 }
